@@ -1,0 +1,6 @@
+{
+  "name": "ERP/MES 庫存精準化與生產物料管理系統功能規格平臺",
+  "description": "製造業庫存精準化、線邊倉與領退料管理系統功能規格書 (FR-01 至 FR-17)、差距評估與互動試算匯出中心",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
